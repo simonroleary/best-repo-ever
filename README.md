@@ -1,3 +1,4 @@
 # best-repo-ever
 Add some data here for the test
-NewBranch1
+NewBranch2
+
